@@ -1,2 +1,4 @@
 # AR-Sample
-its useful for spawning objects and moving them around in AR  
+this is AR application I made for a bigger project .
+you can spawn objects in your scene and move them around.
+feel free to fork it and hopefully you find it usefull. 
