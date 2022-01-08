@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Plate
+  - infotag
+  - HasInfo
   layers:
   - Default
   - TransparentFX
